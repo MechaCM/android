@@ -23,6 +23,13 @@
 
   <project path="android" name="CyanogenMod/android" />
 
+  <project path="device/htc/mecha" name="MechaCM/android_device_htc_mecha" />
+  <project path="device/htc/msm7x30-common" name="MechaCM/android_device_htc_msm7x30-common" />
+  <project path="hardware/qcom/display-legacy" name="Flyhalf205/android_hardware_qcom_display-legacy" />
+  <project path="hardware/qcom/media-legacy" name="Flyhalf205/android_hardware_qcom_media-legacy" />
+  <project path="kernel/htc/mecha" name="MechaCM/android_kernel_htc_mecha" />
+  <project path="vendor/htc/mecha" name="MechaCM/android_vendor_htc_mecha" />
+  
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
